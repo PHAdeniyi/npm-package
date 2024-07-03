@@ -1,0 +1,25 @@
+{
+  "name": "distance-bearing-finder",
+  "version": "1.0.0",
+  "description": "Determines the bearing and distance between two points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bearing",
+    "distance",
+    "coordinates",
+    "angles"
+  ],
+  "author": "Pelumi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHAdeniyi/npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PHAdeniyi/npm-package/issues"
+  },
+  "homepage": "https://github.com/PHAdeniyi/npm-package#readme"
+}
